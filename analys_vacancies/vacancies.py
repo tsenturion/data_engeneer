@@ -249,10 +249,4 @@ def main_with_params(technology="redis"):
     return stats
 
 if __name__ == "__main__":
-    # Основной запуск с вводом от пользователя
     main()
-
-    # Или можно использовать альтернативную версию:
-    # main_with_params("python")  # для поиска Python
-    # main_with_params("spark")   # для поиска Spark
-    # main_with_params("kafka")   # для поиска Kafka
