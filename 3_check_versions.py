@@ -11,4 +11,4 @@ except ImportError as e:
 if sys.version_info.major == 3 and sys.version_info.minor == 13:
     print("несовместимость версий (скорее всего)")
 else:
-    print("все в порядке")
+    print("✅ Успех!")
