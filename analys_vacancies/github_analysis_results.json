@@ -1,0 +1,23 @@
+{
+  "total_vacancies": 220,
+  "tech_vacancies": 3,
+  "tech_percentage": 1.3636363636363635,
+  "tech_vacancies_details": [
+    {
+      "name": "Data Engineer",
+      "url": "https://hh.ru/vacancy/126875839",
+      "id": "126875839"
+    },
+    {
+      "name": "Инженер данных / Data Engineer",
+      "url": "https://hh.ru/vacancy/125758692",
+      "id": "125758692"
+    },
+    {
+      "name": "Data Engineer",
+      "url": "https://hh.ru/vacancy/122738159",
+      "id": "122738159"
+    }
+  ],
+  "technology": "github"
+}
