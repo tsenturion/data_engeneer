@@ -1,0 +1,463 @@
+{
+  "total_vacancies": 221,
+  "tech_vacancies": 91,
+  "tech_percentage": 41.17647058823529,
+  "tech_vacancies_details": [
+    {
+      "name": "Data Engineer",
+      "url": "https://hh.ru/vacancy/127332580",
+      "id": "127332580"
+    },
+    {
+      "name": "Data Engineer",
+      "url": "https://hh.ru/vacancy/127354492",
+      "id": "127354492"
+    },
+    {
+      "name": "Data инженер стажер",
+      "url": "https://hh.ru/vacancy/127215328",
+      "id": "127215328"
+    },
+    {
+      "name": "Data Engineer/Python developer",
+      "url": "https://hh.ru/vacancy/127309366",
+      "id": "127309366"
+    },
+    {
+      "name": "Data Engineer (GameDev)",
+      "url": "https://hh.ru/vacancy/127188133",
+      "id": "127188133"
+    },
+    {
+      "name": "Data Engineer senior (DWH Developer)",
+      "url": "https://hh.ru/vacancy/127307528",
+      "id": "127307528"
+    },
+    {
+      "name": "Senior Data Engineer",
+      "url": "https://hh.ru/vacancy/127358052",
+      "id": "127358052"
+    },
+    {
+      "name": "Data Engineer",
+      "url": "https://hh.ru/vacancy/127331666",
+      "id": "127331666"
+    },
+    {
+      "name": "Data Engineer / Дата-инженер",
+      "url": "https://hh.ru/vacancy/127218802",
+      "id": "127218802"
+    },
+    {
+      "name": "Data Engineer",
+      "url": "https://hh.ru/vacancy/127354900",
+      "id": "127354900"
+    },
+    {
+      "name": "Data Engineer",
+      "url": "https://hh.ru/vacancy/124501841",
+      "id": "124501841"
+    },
+    {
+      "name": "Data Engineer middle (fullstack, support)",
+      "url": "https://hh.ru/vacancy/127304554",
+      "id": "127304554"
+    },
+    {
+      "name": "Data Engineer (проект на 6 месяцев)",
+      "url": "https://hh.ru/vacancy/127379844",
+      "id": "127379844"
+    },
+    {
+      "name": "Data Engineer/Инженер данных",
+      "url": "https://hh.ru/vacancy/126475278",
+      "id": "126475278"
+    },
+    {
+      "name": "Data Engineer",
+      "url": "https://hh.ru/vacancy/126875839",
+      "id": "126875839"
+    },
+    {
+      "name": "Data Engineer (МТС Медиа, КИОН)",
+      "url": "https://hh.ru/vacancy/124863659",
+      "id": "124863659"
+    },
+    {
+      "name": "Data engineer / Fullstack-разработчик",
+      "url": "https://hh.ru/vacancy/126881798",
+      "id": "126881798"
+    },
+    {
+      "name": "Data Engineer (Дата-инженер)",
+      "url": "https://hh.ru/vacancy/126972396",
+      "id": "126972396"
+    },
+    {
+      "name": "Инженер данных (Data Engineer)",
+      "url": "https://hh.ru/vacancy/126785056",
+      "id": "126785056"
+    },
+    {
+      "name": "Стажер/Data Engineer в Скоринг [Big Data, МТС Веб Сервисы]",
+      "url": "https://hh.ru/vacancy/127017531",
+      "id": "127017531"
+    },
+    {
+      "name": "Архитектор DWH/ Senior Data Engineer",
+      "url": "https://hh.ru/vacancy/127186800",
+      "id": "127186800"
+    },
+    {
+      "name": "Data Engineer",
+      "url": "https://hh.ru/vacancy/125842356",
+      "id": "125842356"
+    },
+    {
+      "name": "Data Engineer Python + Spark / Инженер по обработке данных",
+      "url": "https://hh.ru/vacancy/127062705",
+      "id": "127062705"
+    },
+    {
+      "name": "Middle+ / Senior Data-инженер",
+      "url": "https://hh.ru/vacancy/127372503",
+      "id": "127372503"
+    },
+    {
+      "name": "Data Engineer (Инженер данных)",
+      "url": "https://hh.ru/vacancy/127218721",
+      "id": "127218721"
+    },
+    {
+      "name": "Data engineer (Middle)",
+      "url": "https://hh.ru/vacancy/125653791",
+      "id": "125653791"
+    },
+    {
+      "name": "Data Engineer/ Middle",
+      "url": "https://hh.ru/vacancy/126310803",
+      "id": "126310803"
+    },
+    {
+      "name": "Data Engineer",
+      "url": "https://hh.ru/vacancy/126086735",
+      "id": "126086735"
+    },
+    {
+      "name": "Data Engineer",
+      "url": "https://hh.ru/vacancy/126889628",
+      "id": "126889628"
+    },
+    {
+      "name": "Data Engineer (Big Data)",
+      "url": "https://hh.ru/vacancy/126575848",
+      "id": "126575848"
+    },
+    {
+      "name": "Data Engineer/Scientist/Analytic",
+      "url": "https://hh.ru/vacancy/126753999",
+      "id": "126753999"
+    },
+    {
+      "name": "Data Engineer/ ML Engineer",
+      "url": "https://hh.ru/vacancy/126793682",
+      "id": "126793682"
+    },
+    {
+      "name": "Data-инженер",
+      "url": "https://hh.ru/vacancy/126847017",
+      "id": "126847017"
+    },
+    {
+      "name": "Data Engineer",
+      "url": "https://hh.ru/vacancy/126566153",
+      "id": "126566153"
+    },
+    {
+      "name": "Data engineer",
+      "url": "https://hh.ru/vacancy/126486950",
+      "id": "126486950"
+    },
+    {
+      "name": "Data Engineer",
+      "url": "https://hh.ru/vacancy/126760606",
+      "id": "126760606"
+    },
+    {
+      "name": "Data Engineer/ инженер данных",
+      "url": "https://hh.ru/vacancy/123746950",
+      "id": "123746950"
+    },
+    {
+      "name": "SRE Data-инженер платформы данных (3-я линия, по Москве)",
+      "url": "https://hh.ru/vacancy/126577147",
+      "id": "126577147"
+    },
+    {
+      "name": "Data Engineer (Инженер данных)",
+      "url": "https://hh.ru/vacancy/126456920",
+      "id": "126456920"
+    },
+    {
+      "name": "Data Engineer",
+      "url": "https://hh.ru/vacancy/126738368",
+      "id": "126738368"
+    },
+    {
+      "name": "Data Engineer",
+      "url": "https://hh.ru/vacancy/126877937",
+      "id": "126877937"
+    },
+    {
+      "name": "Data Engineer (Hadoop)",
+      "url": "https://hh.ru/vacancy/127159756",
+      "id": "127159756"
+    },
+    {
+      "name": "Инженер данных / Data Engineer",
+      "url": "https://hh.ru/vacancy/125758692",
+      "id": "125758692"
+    },
+    {
+      "name": "Старший Data Engineer",
+      "url": "https://hh.ru/vacancy/124555279",
+      "id": "124555279"
+    },
+    {
+      "name": "Senior Data Engineer / Инженер данных",
+      "url": "https://hh.ru/vacancy/126772336",
+      "id": "126772336"
+    },
+    {
+      "name": "Senior Data Engineer",
+      "url": "https://hh.ru/vacancy/126754958",
+      "id": "126754958"
+    },
+    {
+      "name": "Data Engineer (3 дня в неделю в офисе)",
+      "url": "https://hh.ru/vacancy/126024691",
+      "id": "126024691"
+    },
+    {
+      "name": "Data Engineer",
+      "url": "https://hh.ru/vacancy/126617813",
+      "id": "126617813"
+    },
+    {
+      "name": "Data-инженер (HFT, со знанием английского языка)",
+      "url": "https://hh.ru/vacancy/126891498",
+      "id": "126891498"
+    },
+    {
+      "name": "Data Engineer",
+      "url": "https://hh.ru/vacancy/125690940",
+      "id": "125690940"
+    },
+    {
+      "name": "Data Engineer",
+      "url": "https://hh.ru/vacancy/126867755",
+      "id": "126867755"
+    },
+    {
+      "name": "Data Engineer (Senior)",
+      "url": "https://hh.ru/vacancy/127177012",
+      "id": "127177012"
+    },
+    {
+      "name": "Data Engineer (разработчик DWH)",
+      "url": "https://hh.ru/vacancy/126063618",
+      "id": "126063618"
+    },
+    {
+      "name": "Data engineer / Инженер данных",
+      "url": "https://hh.ru/vacancy/126635812",
+      "id": "126635812"
+    },
+    {
+      "name": "Data Engineer",
+      "url": "https://hh.ru/vacancy/125656388",
+      "id": "125656388"
+    },
+    {
+      "name": "Data Engineer (Senior)",
+      "url": "https://hh.ru/vacancy/127331537",
+      "id": "127331537"
+    },
+    {
+      "name": "Data Engineer (MLOps)",
+      "url": "https://hh.ru/vacancy/122333703",
+      "id": "122333703"
+    },
+    {
+      "name": "Python Data Engineer (ClickHouse)",
+      "url": "https://hh.ru/vacancy/124824639",
+      "id": "124824639"
+    },
+    {
+      "name": "Middle+ / Senior Data-инженер",
+      "url": "https://hh.ru/vacancy/119864106",
+      "id": "119864106"
+    },
+    {
+      "name": "Middle Data Engineer в MWS Data Slon [Big Data, МТС Веб Сервисы]",
+      "url": "https://hh.ru/vacancy/126907361",
+      "id": "126907361"
+    },
+    {
+      "name": "Senior Data Engineer",
+      "url": "https://hh.ru/vacancy/126718880",
+      "id": "126718880"
+    },
+    {
+      "name": "Data Engineer",
+      "url": "https://hh.ru/vacancy/122738159",
+      "id": "122738159"
+    },
+    {
+      "name": "Data Engineer",
+      "url": "https://hh.ru/vacancy/124628976",
+      "id": "124628976"
+    },
+    {
+      "name": "Data Engineer",
+      "url": "https://hh.ru/vacancy/127062057",
+      "id": "127062057"
+    },
+    {
+      "name": "Data Engineer",
+      "url": "https://hh.ru/vacancy/126832447",
+      "id": "126832447"
+    },
+    {
+      "name": "Data Engineer (Интеграционная платформа)",
+      "url": "https://hh.ru/vacancy/125541415",
+      "id": "125541415"
+    },
+    {
+      "name": "Data Engineer",
+      "url": "https://hh.ru/vacancy/126118784",
+      "id": "126118784"
+    },
+    {
+      "name": "Senior Data Engineer",
+      "url": "https://hh.ru/vacancy/127080489",
+      "id": "127080489"
+    },
+    {
+      "name": "Senior Data Engineer",
+      "url": "https://hh.ru/vacancy/126859195",
+      "id": "126859195"
+    },
+    {
+      "name": "Data engineer",
+      "url": "https://hh.ru/vacancy/126661719",
+      "id": "126661719"
+    },
+    {
+      "name": "Data Engineer (Middle)",
+      "url": "https://hh.ru/vacancy/126669681",
+      "id": "126669681"
+    },
+    {
+      "name": "Data Engineer",
+      "url": "https://hh.ru/vacancy/121968491",
+      "id": "121968491"
+    },
+    {
+      "name": "Data Engineer (Операционные риски)",
+      "url": "https://hh.ru/vacancy/125662463",
+      "id": "125662463"
+    },
+    {
+      "name": "Senior Data Engineer",
+      "url": "https://hh.ru/vacancy/126971730",
+      "id": "126971730"
+    },
+    {
+      "name": "Data Engineer (Озеро Данных)",
+      "url": "https://hh.ru/vacancy/126921248",
+      "id": "126921248"
+    },
+    {
+      "name": "Senior Data Engineer",
+      "url": "https://hh.ru/vacancy/125376111",
+      "id": "125376111"
+    },
+    {
+      "name": "Senior Data Engineer (GigaChat TTS)",
+      "url": "https://hh.ru/vacancy/126704581",
+      "id": "126704581"
+    },
+    {
+      "name": "Senior Big Data Engineer",
+      "url": "https://hh.ru/vacancy/124371969",
+      "id": "124371969"
+    },
+    {
+      "name": "Data Инженер, Ozon Fresh",
+      "url": "https://hh.ru/vacancy/127077798",
+      "id": "127077798"
+    },
+    {
+      "name": "Data Engineer",
+      "url": "https://hh.ru/vacancy/126514722",
+      "id": "126514722"
+    },
+    {
+      "name": "Middle+ / Senior Data-инженер",
+      "url": "https://hh.ru/vacancy/127372501",
+      "id": "127372501"
+    },
+    {
+      "name": "Middle+ / Senior Data-инженер",
+      "url": "https://hh.ru/vacancy/127372502",
+      "id": "127372502"
+    },
+    {
+      "name": "Middle+ / Senior Data-инженер",
+      "url": "https://hh.ru/vacancy/116101284",
+      "id": "116101284"
+    },
+    {
+      "name": "Middle+ / Senior Data-инженер",
+      "url": "https://hh.ru/vacancy/121891694",
+      "id": "121891694"
+    },
+    {
+      "name": "Middle+ / Senior Data-инженер",
+      "url": "https://hh.ru/vacancy/118844746",
+      "id": "118844746"
+    },
+    {
+      "name": "Data engineer / Инженер данных",
+      "url": "https://hh.ru/vacancy/126443480",
+      "id": "126443480"
+    },
+    {
+      "name": "Middle+ / Senior Data-инженер",
+      "url": "https://hh.ru/vacancy/121891695",
+      "id": "121891695"
+    },
+    {
+      "name": "Middle+ / Senior Data-инженер",
+      "url": "https://hh.ru/vacancy/119062197",
+      "id": "119062197"
+    },
+    {
+      "name": "Middle+ / Senior Data-инженер",
+      "url": "https://hh.ru/vacancy/119062196",
+      "id": "119062196"
+    },
+    {
+      "name": "Middle+ / Senior Data-инженер",
+      "url": "https://hh.ru/vacancy/118844745",
+      "id": "118844745"
+    },
+    {
+      "name": "Middle+ / Senior Data-инженер",
+      "url": "https://hh.ru/vacancy/117721955",
+      "id": "117721955"
+    }
+  ],
+  "technology": "git"
+}
