@@ -1,0 +1,23 @@
+{
+  "total_vacancies": 220,
+  "tech_vacancies": 3,
+  "tech_percentage": 1.3636363636363635,
+  "tech_vacancies_details": [
+    {
+      "name": "Senior Data Engineer (Dubai onsite)",
+      "url": "https://hh.ru/vacancy/127304603",
+      "id": "127304603"
+    },
+    {
+      "name": "Data Engineer (PostgreSQL, ClickHouse, Trino)",
+      "url": "https://hh.ru/vacancy/126660954",
+      "id": "126660954"
+    },
+    {
+      "name": "Senior Data Engineer (Dubai onsite)",
+      "url": "https://hh.ru/vacancy/126704520",
+      "id": "126704520"
+    }
+  ],
+  "technology": "ssh"
+}
